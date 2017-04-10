@@ -11,4 +11,4 @@ https://new-mail-work-cities.herokuapp.com
 `bundle`  
 
 Запуск
-`ruby man.rb`
+`ruby main.rb`
